@@ -1,0 +1,66 @@
+body {
+    font-family: 'Inter', sans-serif;
+    
+}
+
+.container {
+    display: inline-block; 
+    width: 100%;
+}
+
+textarea
+{
+    width:100%;
+    resize: none;
+}
+
+.textwrapper
+{
+    margin:5px 0;
+    padding:3px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+.black {
+    font-weight: 800;
+    display: inline;
+}
+
+.extralight {
+    font-weight: 200;
+    display: inline;
+}
+
+
+
+span.level1 {
+    font-weight: 900;
+}
+
+span.level2 {
+    font-weight: 800;
+}
+
+span.level3 {
+    font-weight: 600;
+}
+
+span.level4 {
+    font-weight: 400;
+}
+
+span.level5 {
+    font-weight: 200;
+}
+
+span.level6 {
+    font-weight: 100;
+}
