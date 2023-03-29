@@ -39,28 +39,26 @@ h1 {
     display: inline;
 }
 
-
-
-span.level1 {
+span.pacrat.L1 {
     font-weight: 900;
 }
 
-span.level2 {
+span.pacrat.L2 {
     font-weight: 800;
 }
 
-span.level3 {
+span.pacrat.L3 {
     font-weight: 600;
 }
 
-span.level4 {
+span.pacrat.L4 {
     font-weight: 400;
 }
 
-span.level5 {
+span.pacrat.L5 {
     font-weight: 200;
 }
 
-span.level6 {
+span.pacrat.L6 {
     font-weight: 100;
 }
